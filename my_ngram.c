@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #define MAX_ARR_SIZE 128
 
-// DON'T SUBMIT IT'S JUST FOR REFERANCE
-
 void fill_arr(int* arr, char* str) {
     int i = 0;
 
